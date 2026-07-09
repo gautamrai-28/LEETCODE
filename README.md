@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gautamrai-28/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/gautamrai-28/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [2404-most-frequent-even-element](https://github.com/gautamrai-28/LEETCODE/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
+| [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 ## Stack
 |  |
 | ------- |
