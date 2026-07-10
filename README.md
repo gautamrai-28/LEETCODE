@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gautamrai-28/LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautamrai-28/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/gautamrai-28/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gautamrai-28/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gautamrai-28/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/gautamrai-28/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gautamrai-28/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gautamrai-28/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/gautamrai-28/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gautamrai-28/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -106,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gautamrai-28/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gautamrai-28/LEETCODE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
