@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/gautamrai-28/LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautamrai-28/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/gautamrai-28/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gautamrai-28/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/gautamrai-28/LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautamrai-28/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gautamrai-28/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Monotonic Stack
