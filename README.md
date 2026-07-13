@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/gautamrai-28/LEETCODE/tree/master/0735-asteroid-collision) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/gautamrai-28/LEETCODE/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
