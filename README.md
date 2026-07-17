@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/gautamrai-28/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 ## Dynamic Programming
 |  |
@@ -148,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/gautamrai-28/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
