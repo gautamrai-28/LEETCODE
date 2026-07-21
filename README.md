@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/gautamrai-28/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gautamrai-28/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautamrai-28/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/gautamrai-28/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/gautamrai-28/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gautamrai-28/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gautamrai-28/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/gautamrai-28/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/gautamrai-28/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/gautamrai-28/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
