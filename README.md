@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gautamrai-28/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gautamrai-28/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gautamrai-28/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gautamrai-28/LEETCODE/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gautamrai-28/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautamrai-28/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/gautamrai-28/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/gautamrai-28/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -293,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gautamrai-28/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
