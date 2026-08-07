@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamrai-28/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/gautamrai-28/LEETCODE/tree/master/0038-count-and-say) |
 | [0451-sort-characters-by-frequency](https://github.com/gautamrai-28/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/gautamrai-28/LEETCODE/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
