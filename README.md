@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/gautamrai-28/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gautamrai-28/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gautamrai-28/LEETCODE/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/gautamrai-28/LEETCODE/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gautamrai-28/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/gautamrai-28/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/gautamrai-28/LEETCODE/tree/master/1046-last-stone-weight) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/gautamrai-28/LEETCODE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/gautamrai-28/LEETCODE/tree/master/0860-lemonade-change) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gautamrai-28/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
