@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamrai-28/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/gautamrai-28/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gautamrai-28/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/gautamrai-28/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 | [2404-most-frequent-even-element](https://github.com/gautamrai-28/LEETCODE/tree/master/2404-most-frequent-even-element) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/gautamrai-28/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/gautamrai-28/LEETCODE/tree/master/0455-assign-cookies) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/gautamrai-28/LEETCODE/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
