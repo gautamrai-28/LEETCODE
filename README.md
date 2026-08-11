@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gautamrai-28/LEETCODE/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gautamrai-28/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gautamrai-28/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/gautamrai-28/LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/gautamrai-28/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gautamrai-28/LEETCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/gautamrai-28/LEETCODE/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gautamrai-28/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -353,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gautamrai-28/LEETCODE/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/gautamrai-28/LEETCODE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
