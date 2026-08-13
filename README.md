@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/gautamrai-28/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/gautamrai-28/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/gautamrai-28/LEETCODE/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautamrai-28/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/gautamrai-28/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/gautamrai-28/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/gautamrai-28/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/gautamrai-28/LEETCODE/tree/master/0455-assign-cookies) |
