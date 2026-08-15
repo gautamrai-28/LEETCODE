@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/gautamrai-28/LEETCODE/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gautamrai-28/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/gautamrai-28/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1537-get-the-maximum-score](https://github.com/gautamrai-28/LEETCODE/tree/master/1537-get-the-maximum-score) |
 ## Sorting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gautamrai-28/LEETCODE/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gautamrai-28/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gautamrai-28/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/gautamrai-28/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/gautamrai-28/LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/gautamrai-28/LEETCODE/tree/master/0238-product-of-array-except-self) |
