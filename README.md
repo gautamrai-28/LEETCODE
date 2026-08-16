@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gautamrai-28/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/gautamrai-28/LEETCODE/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/gautamrai-28/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/gautamrai-28/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/gautamrai-28/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/gautamrai-28/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamrai-28/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gautamrai-28/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gautamrai-28/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/gautamrai-28/LEETCODE/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/gautamrai-28/LEETCODE/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/gautamrai-28/LEETCODE/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/gautamrai-28/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
