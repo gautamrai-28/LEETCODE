@@ -388,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gautamrai-28/LEETCODE/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/gautamrai-28/LEETCODE/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
