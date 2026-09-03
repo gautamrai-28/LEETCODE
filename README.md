@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/gautamrai-28/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/gautamrai-28/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gautamrai-28/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/gautamrai-28/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gautamrai-28/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gautamrai-28/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
