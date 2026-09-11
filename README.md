@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gautamrai-28/LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/gautamrai-28/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/gautamrai-28/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gautamrai-28/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gautamrai-28/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/gautamrai-28/LEETCODE/tree/master/0055-jump-game) |
