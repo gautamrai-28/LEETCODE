@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gautamrai-28/LEETCODE/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/gautamrai-28/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gautamrai-28/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/gautamrai-28/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/gautamrai-28/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gautamrai-28/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/gautamrai-28/LEETCODE/tree/master/0860-lemonade-change) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gautamrai-28/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/gautamrai-28/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/gautamrai-28/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
