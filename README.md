@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamrai-28/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/gautamrai-28/LEETCODE/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/gautamrai-28/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/gautamrai-28/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/gautamrai-28/LEETCODE/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/gautamrai-28/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/gautamrai-28/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/gautamrai-28/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gautamrai-28/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/gautamrai-28/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gautamrai-28/LEETCODE/tree/master/0283-move-zeroes) |
